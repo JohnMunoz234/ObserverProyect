@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="date_gray">#73736A</color>
+    <color name="dark_gray">#7C7C74</color>
+    <color name="light_2_gray">#707070</color>
+    <color name="light_3_gray">#F2F2F2</color>
+    <color name="cardview_notification_background">@color/light_3_gray</color>
+    <color name="cardview_document_background">@color/light_3_gray</color>
+</resources>
